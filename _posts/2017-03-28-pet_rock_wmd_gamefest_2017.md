@@ -1,6 +1,5 @@
 ---
 title: Pet Rock&#58; WMD Goes to GameFest 2017
-layout: post
 date: 2016-12-21 17:59:00 -0500
 author: Brian Baron
 selectedurl: Blog

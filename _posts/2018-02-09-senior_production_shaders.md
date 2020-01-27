@@ -1,6 +1,5 @@
 ---
 title: Senior Production&#58; Shader Week
-layout: post
 date: 2018-02-09 20:40:00 -0500
 author: Brian Baron
 selectedurl: Blog

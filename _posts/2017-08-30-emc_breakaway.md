@@ -1,6 +1,5 @@
 ---
 title: BreakAway! Mobile Summer Development
-layout: post
 date: 2017-08-30 00:13:00 -0500
 author: Brian Baron
 selectedurl: Blog

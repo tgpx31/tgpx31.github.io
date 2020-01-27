@@ -1,6 +1,5 @@
 ---
 title: Animation Blending on the GPU
-layout: post
 date: 2017-12-22 17:40:00 -0500
 author: Brian Baron
 selectedurl: Blog
