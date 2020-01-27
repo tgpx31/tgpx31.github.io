@@ -1,12 +1,15 @@
 <!doctype html>
 <html>
   <head>
-    <meta charset="utf-8">
+    {% include head.html %}
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="/assets/css/styles.css">
+
+    <!––XXX: do I really care about these plugins?-->
     {% feed_meta %}
     {% seo %}
   </head>
+  
   <body>
     {% include navigation.html %}
     {{ content }}
