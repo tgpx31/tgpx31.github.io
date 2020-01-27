@@ -1,0 +1,18 @@
+---
+title: Pet Rock&#58; WMD Goes to GameFest 2017
+layout: post
+date: 2016-12-21 17:59:00 -0500
+author: Brian Baron
+selectedurl: Blog
+---
+It's been about 10 weeks since the mid-mortem, and we at Rockoon Studios have been continuing to work on <em>Pet Rock: Weapon of Mass Destruction</em>. We brought in our new members from mid-mortem, and also began work with our good friend Ren Golis as a Sound Engineer. Our lead designer, Sean Kennedy, took our game to QA every week and kept returning with positive feedback, and helpful suggestions from testers. "There were a few testers that I had to tell to stop playing so that others would have a turn," Sean told us during a work meeting after a QA session. We felt great about <em>Pet Rock: Weapon of Mass Destruction</em>, and we wanted to show the world how much fun it could be; we got our chance at <a href="http://gamefest.rpi.edu/">RPI's GameFest 2017</a> this past weekend.
+
+We were one of five 3rd-year development teams from <a href="https://gamestudio.champlain.edu/">Champlain College</a> that were selected to attend and represent our school. The competition was made up of over 40 games from 7 different universities. Our table was decked out with our branding materials--business cards, stickers from the game, and even a banner with our logo! Our latest <a href="https://www.youtube.com/watch?v=v05R7D5727I">trailer </a>was playing on a loop for onlookers to see, and people were free to come up to us to try the game and talk to us about the development.
+
+The result? People <span style="text-decoration:underline;">loved</span> our concept. The idea of giving the player freedom without a forced hand really resonated with our participants. We had an audience of all ages: young children, teens, college students, and even parents and grandparents! The venue was packed, and we were pitching our game to anyone who wanted to know. Eventually our table was visited by the judges, and we all got a little nervous--it all hinged on what they thought of our game; there were no set categories to compete in, so we were up against all the other attending studios. The awards were held the following day, April 29th at 3:30 PM.
+
+The award ceremony began with miscellaneous awards. After that came the big ones: which teams got first, second, and third?
+
+I'm happy to say, <em>Pet Rock: Weapon of Mass Destruction</em> won first prize! <a href="https://www.tootiredstudios.com/planet-snatchers"><em>PlanetSnatchers</em></a>, another Champlain team, came in second as well, and third place went to <em>Gloom Box</em> from RIT. I am beyond proud of all the games that Champlain brought to GameFest this year. The response we got reaffirms our passion for making games as we continue to develop <em>Pet Rock: Weapon of Mass Destruction</em>. We plan to use a portion of the prize money to aid in development costs, and will continue to create new levels for our players to experience!
+
+I want to thank all the teams and people that attended GameFest 2017 for making it a memorable weekend. I also want to thank our professor, Kel Bachus for all the support throughout the semester. Kel always had great feedback to make sure we knew what are game was saying, and what we as a team were about.
