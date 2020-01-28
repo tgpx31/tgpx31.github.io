@@ -1,5 +1,9 @@
 @tailwind base;
 
+body, p, li {
+    @apply font-body text-sm text-gray-800
+}
+
 @tailwind components;
 
 @tailwind utilities;

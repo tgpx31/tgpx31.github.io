@@ -1,5 +1,14 @@
 ---
 title: Brian Baron | Game Programmer
+layout: default
 ---
 
-<h1>{{ "Hello World!" | downcase }}</h1>
+<div class="mb-4">
+    <h1>Portfolio</h1>
+</div>
+<div>
+    {% include util/project_blurb.html data=site.data.portfolio.2017_animation_programming.anim_blending %}
+    {% include util/project_blurb.html data=site.data.portfolio.emc.breakaway %}
+    {% include util/project_blurb.html data=site.data.portfolio.production_2.pet_rock_wmd %}
+    {% include util/project_blurb.html data=site.data.portfolio.study_abroad.pokemon_vr %}
+</div>

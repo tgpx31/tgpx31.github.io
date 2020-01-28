@@ -1,0 +1,37 @@
+<div>
+    <div>
+        <div class="w-full md:w-1/2 py-4 md:p-4">
+
+            <!-- image -->
+            <a href={{ include.data.link }}>
+                <img src={{ include.data.image }} width="100%">
+            </a>
+
+        </div>
+        <div class="w-full md:w-1/2 p-0 md:p-4">
+            <!-- title + year -->
+            <div class="pb-4">
+                <h2><a href={{ include.data.link }}>{{ include.data.title }}</a></h2>
+                <h5 class="text-md md:text-lg font-headlite">{{ include.data.year }}</h5>
+            </div>
+
+            <!-- blurb -->
+            <div class="pb-4">
+                <p class="text-justify">{{include.data.blurb}}</p>
+            </div>
+
+            <!-- focuses list -->
+            {% if include.data.focuses.size > 0 %}
+            <div class="pb-4">
+                <p class="text-justify">Focuses:</p>
+                <ul class="list-disc list-outside pl-6">
+                    {% for bullet in include.data.focuses %}
+                    <li class="my-2">{{ bullet }}</li>
+                    {% endfor %}
+                </ul>
+            </div>
+            {% endif %}
+
+        </div>
+    </div>
+</div>
