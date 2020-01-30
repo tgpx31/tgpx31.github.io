@@ -4,5 +4,9 @@ _site
 .jekyll-metadata
 vendor
 
-#ignore VSCode workspaces
+# ignore VSCode workspaces
 *.code-workspace
+
+# ignore Tailwind stuff that shouldn't be checked in
+_tailwind/node_modules
+_tailwind/package-lock.json
