@@ -3,5 +3,5 @@
     "year": "2017",
     "blurb": "In the Fall Semester  of 2017, I took a class focused on animation programming. The last major topic we took a look at was animation blending and blend trees--for our final project, my partner and I decided we wanted to do animation blending on the GPU.",
     "image": "/assets/images/portfolio/2017_animation_programming/ab_lerp.gif",
-    "link": "/index.html"
+    "link": "/2017/12/22/anim_blending_shader.html"
 }
