@@ -3,14 +3,14 @@
         "name": "Portfolio",
         "link": "/"
     },{
+        "name": "About",
+        "link": "/about.html"
+    },{
         "name": "Resume",
         "link": "/resume.html"
     },{
         "name": "Blog",
         "link": "/blog.html"
-    },{
-        "name": "About",
-        "link": "/about.html"
     },{
         "name": "Contact",
         "link": "/contact.html"

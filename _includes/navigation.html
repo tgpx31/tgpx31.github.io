@@ -1,5 +1,30 @@
-<nav>
-    {% for item in site.data.navigation %}
-      <a href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}>{{ item.name }}</a>
-    {% endfor %}
-</nav>
+<div class="border-b">
+  <div class="container mx-auto p-8 sm:p-4">
+    <div class="flex items-center">
+      <div class="w-3/5">
+        <span class="text-3xl font-head text-blue-800"><a href="/">Brian Baron</a></span>
+        <div class="clear"></div>
+        <span class="text-sm font-head font-light text-gray-700">Game Programmer</span>
+      </div>
+      <div class = "w-3/5">
+        <div class="float-right">
+          <div class="container">
+            <div>
+              <ul class="">
+                <!--TODO: add highlighting for which section we're currently in-->
+                {% for item in site.data.navigation %}
+                  <li class="clear mx-2 py-1 text-gray-700 md:inline-block">
+                    <a class="text-sm font-headlite hover:text-blue-500"
+                      href="{{ item.link }}">
+                      <span>{{ item.name }}</span>
+                    </a>
+                  </li>
+                {% endfor %}
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

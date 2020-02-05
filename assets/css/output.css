@@ -605,29 +605,100 @@ body, p, li {
   color: #2d3748
 }
 
-.lerp-color {
-  -webkit-animation: pulse 1s ease-in-out 1;
-          animation: pulse 1s ease-in-out 1
+h1 {
+  font-family: "Roboto Condensed", "Trebuchet MS", Arial, Helvetica, sans-serif;
+  font-size: 1.875rem;
+  color: #4a5568
 }
 
-@-webkit-keyframes pulse {
-  0% {
-    background-color: #001F3F;
-  }
-
-  100% {
-    background-color: #FF4136;
-  }
+h2 {
+  font-family: "Roboto Condensed", "Trebuchet MS", Arial, Helvetica, sans-serif;
+  font-size: 1.5rem;
+  color: #3182ce
 }
 
-@keyframes pulse {
-  0% {
-    background-color: #001F3F;
-  }
+h3 {
+  font-family: "Roboto Condensed", "Trebuchet MS", Arial, Helvetica, sans-serif;
+  font-size: 1.25rem;
+  color: #3182ce
+}
 
-  100% {
-    background-color: #FF4136;
-  }
+h4 {
+  font-family: "Roboto Condensed", "Trebuchet MS", Arial, Helvetica, sans-serif;
+  font-size: 1.25rem;
+  color: #4a5568
+}
+
+h5 {
+  font-family: "Roboto Condensed", "Trebuchet MS", Arial, Helvetica, sans-serif;
+  font-size: 1.125rem;
+  color: #4a5568
+}
+
+h6 {
+  font-family: "Roboto", "Trebuchet MS", Arial, Helvetica, sans-serif;
+  font-size: 1rem;
+  color: #4a5568
+}
+
+/* ------------- Blog Specific ------------- */
+
+#blogpost a {
+  color: #3182ce
+}
+
+#blogpost a:hover {
+  color: #4299e1
+}
+
+#blogpost pre, #blogpost code {
+  font-size: 0.75rem;
+  overflow: auto;
+  margin-bottom: 1.25rem;
+}
+
+#blogpost ul {
+  margin-left: 1.5rem;
+  list-style-type: disc;
+}
+
+#blogpost ol {
+  margin-left: 1.5rem;
+  list-style-type: decimal;
+}
+
+#blogpost li {
+  margin-bottom: 1rem;
+}
+
+#blogpost .center-image {
+  margin-left: auto;
+  margin-right: auto;
+  display: block
+}
+
+#blogpost h3, #blogpost h4, #blogpost h5, #blogpost h6, #blogpost p {
+  margin-bottom: 1.25rem
+}
+
+#blogpost table {
+  font-family: "Roboto", "Trebuchet MS", Arial, Helvetica, sans-serif;
+  margin-left: auto;
+  margin-right: auto;
+  border-collapse: collapse;
+  padding: 0.5rem;
+  overflow: scroll;
+  background: #FCFCFC;
+}
+
+#blogpost th, #blogpost td {
+  border-width: 1px;
+  padding: 0.5rem;
+  border-color: #f0f0f0;
+}
+
+#blogpost th {
+  background: #F8F8F8;
 }
 
 .container {

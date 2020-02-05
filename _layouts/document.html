@@ -9,14 +9,15 @@
   </head>
   
   <body>
-    {% include navigation.html %}
-
-    <div class="container mx-auto px-4">
-      <div class="my-4">
-        {{ content }}
-      </div>
+    <div class="print:hidden">
+        {% include navigation.html %}
     </div>
 
-    {% include footer.html %}
+    <div class="container my-4"></div>
+    {{ content }}
+
+    <div class="container mx-auto px-4 print:hidden">
+        {% include footer.html %}
+    </div>
   </body>
 </html>
